@@ -1,0 +1,106 @@
+body{
+    background-color: rgba(236, 229, 167, 0.445);
+  }
+ 
+  
+  .menu
+  {
+    float: right;
+    margin-top: 50px;
+    margin-right: 200px;
+    font-size: 24px;
+  }
+  a{
+  text-decoration: none;
+  }
+  .devices {
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+  b{
+  text-align: center;
+  }
+  .tag {
+    width: 50%;
+    float: right;
+  }
+  .tag p {
+    background-color: yellow;
+    text-align: justify;
+    border:5px solid black ;
+    border-radius: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(55, 7, 132);
+    font-size:30px;
+    margin-top:70px;
+    margin-right:90px;
+    margin-left:-60px;
+    width: 70%;
+    padding: 20px;
+  }
+  .tag p:hover{
+    background-color: red;
+    color: white;
+  }
+  .pic     {
+    margin-left:150px;
+    width:30%;
+  }
+  .section {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .product {
+    margin-top: 50px;
+    margin-bottom:60%;
+  }
+  .product:hover{
+    background-color: rgb(150, 160, 252);
+  }
+  .item {
+    float: left;
+    border: 6px solid rgba(29, 159, 188, 0.879);
+    border-radius: 30px;
+    border-style:groove;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 200px;
+    width: 200px;
+  }
+  
+  .item:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+  .item img {
+    width: 170px;
+    height: 150px;
+    align-items: center;
+    margin-top: 5px;
+  }
+  .item p {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+    font-size: 35px;
+  }
+  .row {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+  }
+  .btn{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+    border-radius: .5rem;
+    background: blue;
+    padding: 1rem 3rem;
+    color: white;
+    cursor: pointer;
+  }
+  footer{
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
